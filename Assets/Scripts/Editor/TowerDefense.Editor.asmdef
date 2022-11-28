@@ -1,0 +1,18 @@
+{
+    "name": "TowerDefense.Editor",
+    "rootNamespace": "TowerDefense.Editor",
+    "references": [
+        "GUID:dd99f1d687a52af41a08dac26f84425c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
